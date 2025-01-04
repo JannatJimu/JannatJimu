@@ -21,8 +21,6 @@ I aspire to grow as a full-stack web developer, combining technical expertise an
 📩 How to reach me:  
 - 📧 Email:jannatulfardaousjim@gmail.com
 - 💼 LinkedIn:https://www.linkedin.com/in/jannatul-fardaous-jim-0b7851256/
---- 
-
 ---
 
 ## ⚒️ Languages and Tools  
@@ -50,9 +48,7 @@ I aspire to grow as a full-stack web developer, combining technical expertise an
   <a href="https://github.com/JannatJimu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>  
-
----
+</div> 
 
 
 
