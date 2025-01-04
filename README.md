@@ -9,7 +9,7 @@ I’m currently pursuing a **Bachelor’s in Computer Science and Engineering**,
 ## 👩‍💻 About Me  
 - 🎓 **Academic Background:** Pursuing a Bachelor's in Computer Science and Engineering.  
 - 💻 **Core Interests:** Full-Stack Web Development, Open Source Contribution, and Scalable System Design.  
-- 📖 **Currently Learning:** Advanced JavaScript (ES6+), React.js, and Node.js for back-end development.  
+- 📖 **Currently Learning:** Advanced JavaScript, React.js, and Node.js for back-end development.  
 - 🤝 **Open to Collaborate:** I’m interested in working on impactful web projects and contributing to open-source initiatives.   
 - 💻 **Goal:** To become a web developer and contribute to impactful projects in the tech field.  
 
