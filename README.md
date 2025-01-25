@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> I'm Jannatul Fardaous Jim</h1>
 <h3 align="center">I'm a CSE undergraduate passionate about designing innovative digital solutions, with a special focus on creating impactful and seamless web experiences.</h3>
 <p align="center"> 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlhaW4yeHJlOTYzbWt1OTRkNWN4aW9kZTF6YnNkb2l3b3lzYmN4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RjeDtSXMWo5DL3RmlU/giphy.gif" alt="Coding GIF" width="500">
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlhaW4yeHJlOTYzbWt1OTRkNWN4aW9kZTF6YnNkb2l3b3lzYmN4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RjeDtSXMWo5DL3RmlU/giphy.gif" alt="Coding GIF" width="450">
 </p>
 
 
