@@ -33,9 +33,10 @@
 ---
 
 ### My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JannatJimu&show_icons=true&theme=radical"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatJimu&layout=compact&theme=radical">
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JannatJimu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatJimu&layout=compact&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JannatJimu&theme=react-dark&bg_color=20232a&hide_border=true)  
+
 
 
