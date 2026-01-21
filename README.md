@@ -6,8 +6,7 @@
 
 <p align="center">
   <em>
-    Passionate about building clean, scalable, and user-focused web applications.
-    Focused on modern frontend technologies and continuously improving problem-solving skills.
+   Focused on modern frontend technologies, with a strong interest in transforming ideas into reliable and user-centric digital solutions.
   </em>
 </p>
 
