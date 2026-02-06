@@ -1,67 +1,98 @@
+<!-- ================= HEADER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=4f46e5,22d3ee,38bdf8&height=170&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 <h1 align="center">Jannatul Fardaous Jim</h1>
 
 <h3 align="center">
-  Computer Science & Engineering Graduate · Web Developer
+  Frontend Web Developer · CSE Graduate
 </h3>
 
 <p align="center">
   <em>
-   Focused on modern frontend technologies, with a strong interest in transforming ideas into reliable and user-centric digital solutions.
+    Crafting modern web interfaces with performance, accessibility, and great UX in mind.
   </em>
 </p>
 
 <br>
 
+<!-- ================= TYPING EFFECT ================= -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jannatul-fardaous-jim-0b7851256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;React+%7C+JavaScript+%7C+Clean+UI;Building+Reliable+User+Focused+Interfaces"
+      alt="Typing SVG"
+    />
   </a>
+</p>
+
+<br>
+
+
+<hr>
+
+<!-- ================= ABOUT ME ================= -->
+<h2 align="center">✨ About Me</h2>
+
+<p align="center">
+  I'm a Computer Science graduate passionate about building elegant and scalable frontend applications.<br>
+  I enjoy solving real-world problems through clean UI and well-structured code.
+</p>
+
+<p align="center">
+  🎓 CSE Graduate &nbsp; | &nbsp;
+  ⚛️ React Developer &nbsp; | &nbsp;
+  🚀 Project-Based Learner &nbsp; | &nbsp;
+  💼 Open to Junior Roles
+</p>
+
+<hr>
+
+<!-- ================= TECH STACK ================= -->
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,git,github" />
+</p>
+
+<hr>
+
+
+<!-- ================= STATS (FIXED) ================= -->
+<h2 align="center">📊 GitHub Insights</h2>
+
+<p align="center">
+    <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=JannatJimu&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats"/>
+    <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=JannatJimu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+    <img width="40%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=JannatJimu&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JannatJimu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+<br>
+
+<!-- ================= CONNECT ================= -->
+<h2 align="center">🌐 Let’s Build Together</h2>
+
+<p align="center">
+  I'm always interested in meaningful collaborations, internships, and junior developer opportunities.
+</p>
+
+<p align="center">
   <a href="mailto:jannatulfardaousjim@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/JannatJimu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-24292E?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jannatul-fardaous-jim-0b7851256/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<hr>
+<br>
 
-<h3 align="center">Technical Skills</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-24292E?style=flat-square&logo=github&logoColor=white" />
-</p>
-
-<hr>
-
-<h3 align="center">GitHub Activity Overview</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JannatJimu&show_icons=true&hide_border=true&theme=github_dark" width="420" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JannatJimu&hide_border=true&theme=github-dark" width="420" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JannatJimu&theme=github-dark&hide_border=true" />
-</p>
-
-<hr>
-
-<p align="center">
-  <em>
-    “Consistency, clarity, and continuous learning define my approach to software development.”
-  </em>
-</p>
+<!-- ================= FOOTER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=22d3ee,4f46e5&height=120&section=footer"/>
