@@ -1,98 +1,78 @@
-<!-- ================= HEADER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=4f46e5,22d3ee,38bdf8&height=170&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<!-- ================= PREMIUM HEADER ================= -->
+<div align="center">
 
-<h1 align="center">Jannatul Fardaous Jim</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,18,30&height=200&section=header&text=Jannatul%20Fardaous%20Jim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Building%20Modern%20UI&descAlignY=55&descAlign=50"/>
 
-<h3 align="center">
-  Frontend Web Developer · CSE Graduate
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind;Creating+Clean+%26+User-Friendly+Interfaces;Focused+on+Performance+%26+UX" />
+
+<br><br>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=JannatJimu&color=blue&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/badge/Degree-CSE%20Graduate-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-38BDF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Junior%20Roles-22C55E?style=for-the-badge"/>
+</p>
+
+</div>
+
+<br>
+
+<!-- ================= MODERN ABOUT ================= -->
+## ✨ About Me
 
 <p align="center">
-  <em>
-    Crafting modern web interfaces with performance, accessibility, and great UX in mind.
-  </em>
+Frontend-focused developer passionate about building responsive, accessible, and user-friendly web applications.<br>
+Currently strengthening my skills in <b>React, API integration, and modern UI design</b> through real-world projects.
 </p>
 
 <br>
 
-<!-- ================= TYPING EFFECT ================= -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;React+%7C+JavaScript+%7C+Clean+UI;Building+Reliable+User+Focused+Interfaces"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+<!-- ================= CLEAN TECH STACK ================= -->
+## ⚡ Tech Focus
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github" />
+
+</div>
 
 <br>
 
-
-<hr>
-
-<!-- ================= ABOUT ME ================= -->
-<h2 align="center">✨ About Me</h2>
+<!-- ================= DYNAMIC STATS ================= -->
+## 📊 GitHub Activity
 
 <p align="center">
-  I'm a Computer Science graduate passionate about building elegant and scalable frontend applications.<br>
-  I enjoy solving real-world problems through clean UI and well-structured code.
+  <img src="https://streak-stats.demolab.com?user=JannatJimu&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JannatJimu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  🎓 CSE Graduate &nbsp; | &nbsp;
-  ⚛️ React Developer &nbsp; | &nbsp;
-  🚀 Project-Based Learner &nbsp; | &nbsp;
-  💼 Open to Junior Roles
-</p>
-
-<hr>
-
-<!-- ================= TECH STACK ================= -->
-<h2 align="center">⚡ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,git,github" />
-</p>
-
-<hr>
-
-
-<!-- ================= STATS (FIXED) ================= -->
-<h2 align="center">📊 GitHub Insights</h2>
-
-<p align="center">
-    <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=JannatJimu&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats"/>
-    <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=JannatJimu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-    <img width="40%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=JannatJimu&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JannatJimu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JannatJimu&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 <br>
 
 <!-- ================= CONNECT ================= -->
-<h2 align="center">🌐 Let’s Build Together</h2>
+## 🌐 Connect With Me
 
-<p align="center">
-  I'm always interested in meaningful collaborations, internships, and junior developer opportunities.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:jannatulfardaousjim@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jannatul-fardaous-jim-0b7851256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<a href="mailto:jannatulfardaousjim@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jannatul-fardaous-jim-0b7851256/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JannatJimu">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 <br>
 
 <!-- ================= FOOTER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=22d3ee,4f46e5&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,4&height=120&section=footer"/>
